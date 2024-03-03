@@ -18,3 +18,14 @@ Each script in this repository has its own specific usage instructions. Please r
 
 ```bash
 ./detailed_scan.sh <target-ip-or-hostname>
+```
+
+## License
+
+All scripts and tools in this repository are available under the MIT License, unless specified otherwise in the individual tool's directory. This license allows for free use, modification, and distribution of the tools, promoting open collaboration and sharing within the community.
+
+## Disclaimer
+
+All tools and scripts in this repository are intended for ethical use in network security assessments and penetration testing only. Users are responsible for adhering to local laws and regulations regarding network scanning and security testing. The creators and contributors of this repository do not condone unauthorized or malicious use of these tools.
+
+Thank you for visiting the `Ethical-Hacking-Scripts` repository. Your contributions and feedback are greatly appriciated!
