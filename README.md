@@ -8,10 +8,6 @@ Welcome to my `Ethical-Hacking-Scripts` repository! This collection is dedicated
 
 `detailed_scan.sh` is a Bash script that optimizes `nmap` network scans for efficiency and readability. It employs a two-phase scanning approach, initially conducting a rapid scan to identify open ports, followed by a detailed `-A` scan on those ports. The script enhances output readability by color-coding port numbers and service names, aiding in the quick identification of critical information. Ideal for streamlining network analysis tasks, `detailed_scan.sh` is the first of many tools I aim to provide for the security community.
 
-## Future Additions
-
-The `Ethical-Hacking-Scripts` repository is expected to grow, incorporating a variety of scripts and tools that cover different aspects of ethical hacking. Stay tuned for updates and new additions that will further aid in network analysis, penetration testing, and security auditing.
-
 ## Usage
 
 Each script in this repository has its own specific usage instructions. Please refer to the individual script documentation for detailed information. For example, to use `detailed_scan.sh`:
@@ -28,4 +24,4 @@ All scripts and tools in this repository are available under the MIT License, un
 
 All tools and scripts in this repository are intended for ethical use in network security assessments and penetration testing only. Users are responsible for adhering to local laws and regulations regarding network scanning and security testing. The creators and contributors of this repository do not condone unauthorized or malicious use of these tools.
 
-Thank you for visiting the `Ethical-Hacking-Scripts` repository. Your contributions and feedback are greatly appriciated!
+Thank you for visiting the `Ethical-Hacking-Scripts` repository.
